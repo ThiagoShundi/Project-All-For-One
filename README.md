@@ -1,19 +1,19 @@
 <h1> All for One </h1>
 
-<h2> Sobre o projeto </h2>
+<h2> About the project </h2>
 
 <div> 
-Este projeto foi desenvolvido no curso de back-end, com a proposta de manipular, criar, extrair e transformar dados em contéudo util com o banco de dados SQL.
+This project was developed in the back-end course, with the purpose of manipulating, creating, extracting and transforming data into useful content with the SQL database.
 
 </div> 
 
-<h2> Avaliação do Projeto </h2>
+<h2> Project Evaluation </h2>
 
 <img src="images/avaliacao.png"/>
 
-<h2>Contato </h2>
+<h2>Contact </h2>
 
-<p> Para mais informações entre em contato: </p>
+<p> For more information contact us: </p>
 
 <div>
 <a href="https://www.linkedin.com/in/thiago-hayashi-037732109/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
